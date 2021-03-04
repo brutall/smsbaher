@@ -5,6 +5,7 @@ banner = colors+"""
 ▀▀█ █░▀░█ ▀▀█ █▀▀▄ █▄▄█ █▀▀█ █▀▀ █▄▄▀ 
 ▀▀▀ ▀░░░▀ ▀▀▀ ▀▀▀░ ▀░░▀ ▀░░▀ ▀▀▀ ▀░▀▀
 создатель VK-(@skriptkiddies)
-Telegram канал - t.me/termux_tooIs"""
+Telegram канал - t.me/termux_tooIs
+"""
 
 cursor = colors+"sms.baher>> "
